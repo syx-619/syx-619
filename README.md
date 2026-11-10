@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# [Your Name]
+## Hi there 👋,I am Yixiang Sun
 
 Welcome to my GitHub profile!
 
