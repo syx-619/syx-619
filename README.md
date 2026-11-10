@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**syx-619/syx-619** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# [Your Name]
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am affiliated with the School of Computer Science and Technology at the University of Chinese Academy of Sciences (UCAS). My research interests focus on multimodal embodied intelligence.
+
+## Affiliation
+
+School of Computer Science and Technology  
+University of Chinese Academy of Sciences (UCAS)
+
+## Research Interests
+
+- Multimodal Embodied Intelligence
+
+## Contact
+
+- Email:
